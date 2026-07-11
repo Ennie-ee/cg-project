@@ -1,0 +1,9 @@
+﻿  ena.cpp
+D:\ena-cg\ena.cpp(440,45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ena-cg\ena.cpp(441,47): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ena-cg\ena.cpp(467,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ena-cg\ena.cpp(468,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ena-cg\ena.cpp(468,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ena-cg\ena.cpp(469,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\ena-cg\ena.cpp(581,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ena-cg.vcxproj -> D:\ena-cg\x64\Debug\ena-cg.exe
